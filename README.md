@@ -1,5 +1,14 @@
 # 💼 JobConnect
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Recruitment-Candidate%20%7C%20Company%20%7C%20Admin-0F766E?style=for-the-badge" alt="Recruitment platform" />
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-14B8A6?style=for-the-badge" alt="MIT License" /></a>
+</p>
+
+<p align="center"><a href="#-features">Features</a> · <a href="#️-software-architecture">Architecture</a> · <a href="#-installation">Installation</a> · <a href="#-testing">Testing</a></p>
+
 ### Full-Stack Recruitment & Job Management Platform
 
 JobConnect is a full-stack recruitment platform built with **Laravel 12**, **PHP 8.2**, **MySQL**, **Blade**, **Tailwind CSS**, and **Alpine.js**.
